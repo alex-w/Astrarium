@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Astrarium/Astrarium?style=flat-square)
 
 <a href="https://yoomoney.ru/to/410011844668094"><img src="https://img.shields.io/badge/Donate-YooMoney-590df2?style=flat-square"/></a>
-<a href="https://pay.cloudtips.ru/p/465ec2c2"><img src="https://img.shields.io/badge/Donate-CloudTips-6496dc?style=flat-square"/></a>
+<a href="https://pay.cloudtips.ru/p/93e48162"><img src="https://img.shields.io/badge/Donate-CloudTips-6496dc?style=flat-square"/></a>
 <a href="https://link.trustwallet.com/send?coin=0&address=bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5"><img src="https://img.shields.io/badge/Donate-BTC-orange?style=flat-square"/></a>
 <a href="https://link.trustwallet.com/send?coin=60&address=0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7"><img src="https://img.shields.io/badge/Donate-USDT-26a17b?style=flat-square"/></a>
 
